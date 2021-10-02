@@ -221,9 +221,7 @@
     <string name="mux_concurrency">اتصالات مسك المتزامنة</string>
     <string name="enable_mux">تمكين المضاعف</string>
     <string name="traffic_sniffing">تمكين استنشاق حركة المرور</string>
-    <string name="dm_mph">الحد الأدنى من التجزئة المثالية</string>
     <string name="dm_linear">المطابقة الخطية</string>
-    <string name="domain_matcher">خوارزمية مطابقة المجال</string>
     <string name="domain_strategy">استراتيجية حل المجال</string>
     <string name="route_opt_block_ads">إعلانات كتلة</string>
     <string name="route_opt_bypass_lan">جانبا LAN</string>

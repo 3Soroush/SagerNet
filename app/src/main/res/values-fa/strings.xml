@@ -282,9 +282,7 @@
     <string name="mux_sum">تسهیم کننده Mux برای کاهش تأخیر TCP طراحی شده است، قادر به افزایش توان اتصال نیست. استفاده از Mux برای تماشای فیلم، بارگیری یا تست سرعت معمولاً خلاف قوانین تولید است</string>
     <string name="enable_mux">فعالسازی تسهیم کننده</string>
     <string name="traffic_sniffing">فعال کردن استشمام ترافیک</string>
-    <string name="dm_mph">حداقل هش کامل</string>
     <string name="dm_linear">تطبیق خطی</string>
-    <string name="domain_matcher">الگوریتم همسان سازی دامنه</string>
     <string name="domain_strategy">استراتژی حل دامنه</string>
     <string name="route_opt_block_ads">مسدود کردن تبلیغات</string>
     <string name="route_opt_bypass_lan">بای‌پس LAN</string>

@@ -238,9 +238,7 @@
     <string name="mux_sum">Mux er designet for å redusere ventetid for TCP -håndtrykk, ikke for å øke tilkoblingsmengden. Å bruke Mux til å se på videoer, nedlasting eller hastighetstest er vanligvis kontraproduktivt</string>
     <string name="enable_mux">Aktiver Multiplexer</string>
     <string name="traffic_sniffing">Aktiver trafikksniff</string>
-    <string name="dm_mph">Minimal perfekt hasj</string>
     <string name="dm_linear">Lineær matchning</string>
-    <string name="domain_matcher">Algoritme for domenetilpasning</string>
     <string name="domain_strategy">Domeneløsningsstrategi</string>
     <string name="route_opt_block_ads">Blokker annonser</string>
     <string name="route_opt_bypass_lan">Omgå LAN</string>

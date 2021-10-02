@@ -176,9 +176,7 @@
     <string name="mux_sum">Mux está diseñado para reducir la latencia del protocolo de enlace de TCP, no para aumentar el rendimiento de la conexión. Usar Mux para ver videos, descargar o realizar pruebas de velocidad suele ser contraproducente</string>
     <string name="enable_mux">Habilitar multiplexor</string>
     <string name="traffic_sniffing">Habilitar el rastreo de tráfico</string>
-    <string name="dm_mph">Hash mínimo perfecto</string>
     <string name="dm_linear">Coincidencia lineal</string>
-    <string name="domain_matcher">Algoritmo de coincidencia de dominio</string>
     <string name="domain_strategy">Estrategia de resolución de dominio</string>
     <string name="route_opt_block_ads">Bloquear anuncios</string>
     <string name="route_not_asset">No es un archivo de activos: excepto .dat, pero %s</string>

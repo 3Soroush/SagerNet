@@ -297,9 +297,7 @@
     <string name="mux_concurrency">Mux одновременных подключений</string>
     <string name="enable_mux">Включить мультиплексор</string>
     <string name="traffic_sniffing">Включить анализ трафика</string>
-    <string name="dm_mph">Минимальный идеальный хеш</string>
     <string name="dm_linear">Линейное соответствие</string>
-    <string name="domain_matcher">Алгоритм сопоставления доменов</string>
     <string name="domain_strategy">Стратегия разрешения доменов</string>
     <string name="route_opt_block_ads">Блокировать рекламу</string>
     <string name="route_opt_bypass_lan">Обход LAN</string>
