@@ -393,7 +393,6 @@
     <string name="force_vmess_aead_sum">VMess yapılandırmasını güvenliksiz doğrulama metoduyla AEAD\'ye yeniden yaz (alterId 0)</string>
     <string name="no_statistics">Henüz istatistik yok</string>
     <string name="traffic_statistics_summary">Güç tüketimini arttırabilir</string>
-    <string name="traffic_statistics">Trafik İstatistiklerini Etkinleştir</string>
     <string name="statistics_disabled">Trafik istatistikleri devre dışı</string>
     <string name="clear_logcat">Günlüğü Temizle</string>
     <string name="menu_log">Günlükler</string>
